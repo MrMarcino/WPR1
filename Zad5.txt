@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<body>
+<table>
+<tr>
+	<th>Produkt</th>
+	<th>Opis</th>
+	<th>Cena</th>
+	<th>Zdjęcie</th>
+</tr>
+<tr>
+    <td>Telewizor</td>
+    <td>Duży telewizor LED o rozmiarze 55 cali.</td>
+    <td>2500 zł</td>
+    <td><a href="https://www.mediaexpert.pl/telewizory-i-rtv/telewizory/przekatna-ekranu-cal_55"><img src="https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/57/5791708/Telewizor-PHILIPS-55PML9008-fc01.jpg" alt="Telewizor"></a></td>
+</tr>
+<tr>
+    <td>Laptop</td>
+    <td>Laptop z procesorem Intel Core i7 i dyskiem SSD.</td>
+    <td>3500 zł</td>
+    <td><a href="https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/procesor_intel-core-i7"><img src="https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/56/5663960/Laptop-LENOVO-Yoga-Book-9-13IRU8-ekran-dotykowy-1.jpg" alt="Laptop"></a></td>
+</tr>
+<tr>
+    <td>Kamera</td>
+    <td>Kamera z opcją nagrywania w jakości 4K.</td>
+    <td>1800 zł</td>
+    <td><a href="https://www.komputronik.pl/product/695469/panasonic-hc-x1500-4k-ultra-hd-czarna.html"><img src="https://u.cyfrowe.pl/600x0/b/6/x15001_313760032.jpg" alt="Kamera"></a></td>
+</tr>
+<tr>
+    <td>Smartfon</td>
+    <td>Smartfon z dużym wyświetlaczem i podwójnym aparatem.</td>
+    <td>2000 zł</td>
+    <td><a href="https://www.morele.net/wiadomosc/telefon-z-duzym-wyswietlaczem-ranking-top-10-modeli-z-duzym-ekranem/16707/"><img src="https://images.morele.net/i1064/12775308_0_i1064.jpg" alt="Smartfon"></a></td>	
+</tr>
+</table>
+</body>
+</html>
