@@ -45,6 +45,8 @@
     <tr>
     	<td>Dane3.1</td>
 		<td>Dane3.2</td>
+ <td rowspan="2">Dane3.3.1</td>
+        <td rowspan="2">Dane3.3.2</td>
     </tr>
     <tr>
     	<td>Dane4.1</td>
