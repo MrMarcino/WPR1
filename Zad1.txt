@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Moja strona HTML</h1>
+<div>
+     <h2>Pierwsza kolumna</h2>
+         <l>Element 1</l>
+   <div>
+         <l>Element 2</l>
+   </div>
+         <l>Element 3</l>
+    <div>
+        <h2>Druga kolumna</h2>
+        <l>Element 1</l>
+   <div>
+        <l>Element 2</l>
+  </div>
+        <l>Element 3</l>
+    </div>
+    
+        <h2>Trzecia kolumna</h2>
+          <l>Element 1</l>
+   <div>
+        <l>Element 2</l>
+  </div>
+        <l>Element 3</l>  
+</div>
+<div>
+<table>
+	<tr>
+		<th>Kolumna1</th>
+		<th>Kolumna2</th>
+		<th>Kolumna3</th>
+	</tr>
+    <tr>
+    	<td>Dane1.1</td>
+		<td>Dane1.2</td>
+		<td>Dane1.3</td>
+    </tr>
+    <tr>
+    	<td>Dane2.1</td>
+		<td>Dane2.2</td>
+		<td>Dane2.3</td>
+    </tr>
+    <tr>
+    	<td>Dane3.1</td>
+		<td>Dane3.2</td>
+    </tr>
+    <tr>
+    	<td>Dane4.1</td>
+		<td>Dane4.2</td>		
+    </tr>
+</table>
+</div>       
+<ol>
+	<li>Punkt 1</li>
+	<li>Punkt 2</li>
+	<li>Punkt 3</li>
+	<li>Punkt 4</li>
+	<li>Punkt 5</li>
+</ol>
+<ul>
+	<li>Punkt A</li>
+	<li>Punkt B</li>
+	<li>Punkt C</li>
+    <li>Punkt D</li>
+</ul>
+
+<h2>Moje dane kontaktowe</h2>
+    <p>Imię i nazwisko: John Doe</p>
+    <p>Adres e-mail: <a href="mailto:john.doe@mojadomena.com">john.doe@mojadomena.com</a></p>
+    <p>Telefon: 123-456-789</p>
+<a href="#">Przejdź do innej strony</a>
+</body>
+</html>
